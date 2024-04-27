@@ -1,16 +1,16 @@
-# Computer Science in Indonesian
+# Computer Science for Everyone 🔥🔥
 
-### Deskripsi
+### Description
 
-Halo teman-teman semuanyaaa 👋
+Hi Everyone 👋
 
-Repository ini akan berisi terkait dengan berbagai mata pelajaran yang sesuai dengan jurusan Computer Science yang berstandar Internasional atau secara global
+This Repository will provides many information, resources, and guides in Computer Science Major based on global or international curriculum standard.
 
-Repository ini juga full dalam Bahasa Indonesia, agar user Indonesia dapat belajar mata pelajaran Computer Science dengan mudah dan gratis 🆓⭐
+All of the resources are for free, so anyone can learn Computer Science! 🆓⭐
 
 ### Content
 
-Repository ini terdiri dari mata pelajaran:
+This repository provides material courses in:
 - Algorithms using C / C++
 - Data Structures using C / C++
 - Program Design Methods
@@ -21,6 +21,6 @@ Repository ini terdiri dari mata pelajaran:
 
 ### Contributing
 
-Setiap bentuk contributing dapat dilakukan secara sukarela dan Repository ini juga terbuka untuk semua orang :)
+Every contribution is welcome and please always give the best, so that this Repository may be useful for everyone :)
 
 ##### Owner: Stanley Nathanael Wijaya
