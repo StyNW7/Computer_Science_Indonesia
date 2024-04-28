@@ -19,6 +19,10 @@ This repository provides material courses in:
 - Scientific Computing
 - Web Design
 
+### Data Structures
+
+- <a href="https://github.com/StyNW7/Data_Structures"> Personal Data Structures Repository </a>
+
 ### Contributing
 
 Every contribution is welcome and please always give the best, so that this Repository may be useful for everyone :)
