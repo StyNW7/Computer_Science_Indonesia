@@ -4,24 +4,33 @@
 
 Hi Everyone 👋
 
-This Repository will provides many information, resources, and guides in Computer Science Major based on global or international curriculum standard.
+This Repository will provides many information, resources, and guides in Computer Science Major 📝
 
-All of the resources are for free, so anyone can learn Computer Science! 🆓⭐
+All of the resources are for free, so anyone can learn Computer Science anytime and anywhere! 🆓⭐
 
 ### Content
 
 This repository provides material courses in:
-- Algorithms using C / C++
-- Data Structures using C / C++
+- Algorithms
+- Data Structures
 - Program Design Methods
 - Basic Statistics
 - Calculus
 - Scientific Computing
 - Web Design
 
+### Algorithms
+
+- <a href="https://github.com/zhiwehu/Python-programming-exercises"> 100 Python Programming Exercices </a>
+
 ### Data Structures
 
-- <a href="https://github.com/StyNW7/Data_Structures"> Personal Data Structures Repository </a>
+- <a href="https://github.com/StyNW7/Data_Structures"> My Data Structures Repository using C / C++ </a>
+
+### Ultimate Resources
+
+- <a href="https://github.com/freeCodeCamp/freeCodeCamp"> freeCodeCamp 🔥🔥 </a>
+- <a href="https://github.com/practical-tutorials/project-based-learning"> Project Based Learning (PBL) </a>
 
 ### Contributing
 
