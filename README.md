@@ -31,9 +31,15 @@ This repository provides material courses in:
 
 - <a href="https://github.com/freeCodeCamp/freeCodeCamp"> freeCodeCamp </a>
 - <a href="https://github.com/practical-tutorials/project-based-learning"> Project Based Learning </a>
+- <a href="https://github.com/aluismoya/EbookFoundation-free-programming-books"> Free Programming Books </a>
+- <a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resources </a>
 
 ### Contributing
 
 Every contribution is welcome and please always give the best, so that this Repository may be useful for everyone :)
 
-##### Owner: Stanley Nathanael Wijaya
+<hr> </hr>
+
+#### Maintain by: Stanley Nathanael Wijaya
+
+##### Desired to make a collection of free resources and this is for everyone, thank you 🔥🔥
