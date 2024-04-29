@@ -25,12 +25,12 @@ This repository provides material courses in:
 
 ### Data Structures
 
-- <a href="https://github.com/StyNW7/Data_Structures"> My Data Structures Repository using C / C++ </a>
+- <a href="https://github.com/StyNW7/Data_Structures"> Real Program of Data Structures Using C/C++ </a>
 
 ### Ultimate Resources
 
-- <a href="https://github.com/freeCodeCamp/freeCodeCamp"> freeCodeCamp 🔥🔥 </a>
-- <a href="https://github.com/practical-tutorials/project-based-learning"> Project Based Learning (PBL) </a>
+- <a href="https://github.com/freeCodeCamp/freeCodeCamp"> freeCodeCamp </a>
+- <a href="https://github.com/practical-tutorials/project-based-learning"> Project Based Learning </a>
 
 ### Contributing
 
