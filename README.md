@@ -38,6 +38,10 @@ This repository provides material courses in:
 - <a href="https://github.com/aluismoya/EbookFoundation-free-programming-books"> Free Programming Books </a>
 - <a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resources </a>
 
+### Job Resources
+
+- <a href="https://startup.jobs/"> Startup Jobs </a>
+
 ### Contributing
 
 Every contribution is welcome and please always give the best, so that this Repository may be useful for everyone :)
