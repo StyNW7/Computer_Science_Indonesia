@@ -8,16 +8,21 @@ This Repository will provides many information, resources, and guides in Compute
 
 All of the resources are for free, so anyone can learn Computer Science anytime and anywhere! 🆓⭐
 
+Every resource has been reviewed and selected from other great sources, so these are the best of the best 🔥🔥
+
 ### Content
 
 This repository provides material courses in:
 - Algorithms
 - Data Structures
+
+<!--
 - Program Design Methods
 - Basic Statistics
 - Calculus
 - Scientific Computing
 - Web Design
+-->
 
 ### Roadmap Resources
 
@@ -37,11 +42,23 @@ This repository provides material courses in:
 - <a href="https://github.com/freeCodeCamp/freeCodeCamp"> freeCodeCamp </a>
 - <a href="https://github.com/practical-tutorials/project-based-learning"> Project Based Learning </a>
 - <a href="https://github.com/aluismoya/EbookFoundation-free-programming-books"> Free Programming Books </a>
-- <a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resources </a>  
+- <a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resources </a>
+
+### Cheatsheets
+
+- <a href="https://www.codecademy.com/resources/cheatsheets/all"> Codecademy Cheatsheets </a>
+- <a href="https://lecoupa.github.io/awesome-cheatsheets/"> Awesome Cheatsheets </a>
+- <a href="https://devhints.io/"> Dev Hints </a>
+- <a href="https://overapi.com/"> Over API </a>
 
 ### Job Resources
 
 - <a href="https://startup.jobs/"> Startup Jobs </a>
+
+### News for Developers
+
+- <a href="https://daily.dev/"> Daily Dev </a>
+- <a href="https://justfive.news/technology"> Just Five News </a>
 
 ### Contributing
 
