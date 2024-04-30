@@ -30,13 +30,14 @@ This repository provides material courses in:
 ### Data Structures
 
 - <a href="https://github.com/StyNW7/Data_Structures"> Real Program of Data Structures Using C/C++ </a>
+- <a href="https://gi  thub.com/sachuverma/DataStructures-Algorithms"> Data Structures and Algorithms </a>
 
 ### Ultimate Resources
 
 - <a href="https://github.com/freeCodeCamp/freeCodeCamp"> freeCodeCamp </a>
 - <a href="https://github.com/practical-tutorials/project-based-learning"> Project Based Learning </a>
 - <a href="https://github.com/aluismoya/EbookFoundation-free-programming-books"> Free Programming Books </a>
-- <a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resources </a>
+- <a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resources </a>  
 
 ### Job Resources
 
