@@ -50,6 +50,7 @@ This repository provides material courses in:
 - <a href="https://lecoupa.github.io/awesome-cheatsheets/"> Awesome Cheatsheets </a>
 - <a href="https://devhints.io/"> Dev Hints </a>
 - <a href="https://overapi.com/"> Over API </a>
+- <a href="https://devdocs.io/"> Dev Docs </a>
 
 ### Job Resources
 
