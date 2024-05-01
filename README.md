@@ -43,6 +43,7 @@ This repository provides material courses in:
 - <a href="https://github.com/practical-tutorials/project-based-learning"> Project Based Learning </a>
 - <a href="https://github.com/aluismoya/EbookFoundation-free-programming-books"> Free Programming Books </a>
 - <a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resources </a>
+- <a href="https://www.jsmastery.pro/resources"> JavaScript Mastery </a>
 
 ### Cheatsheets
 
