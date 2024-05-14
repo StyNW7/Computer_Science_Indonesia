@@ -66,8 +66,6 @@ This repository provides material courses in:
 
 Every contribution is welcome and please always give the best, so that this Repository may be useful for everyone :)
 
-<hr> </hr>
-
 #### Maintain by: Stanley Nathanael Wijaya
 
 ##### Desired to make a collection of free resources and this is for everyone, thank you 🔥🔥
