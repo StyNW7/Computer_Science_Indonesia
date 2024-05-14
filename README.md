@@ -1,6 +1,6 @@
 # Computer Science for Everyone 🔥🔥
 
-### Description
+## Description
 
 Hi Everyone 👋
 
@@ -10,7 +10,7 @@ All of the resources are for free, so anyone can learn Computer Science anytime 
 
 Every resource has been reviewed and selected from other great sources, so these are the best of the best 🔥🔥
 
-### Content
+## Content
 
 This repository provides material courses in:
 - Algorithms
@@ -24,20 +24,20 @@ This repository provides material courses in:
 - Web Design
 -->
 
-### Roadmap Resources
+## Roadmap Resources
 
 - <a href="https://roadmap.sh/"> Developer Roadmaps </a>
 
-### Algorithms
+## Algorithms
 
 - <a href="https://github.com/zhiwehu/Python-programming-exercises"> 100 Python Programming Exercices </a>
 
-### Data Structures
+## Data Structures
 
 - <a href="https://github.com/StyNW7/Data_Structures"> Real Program of Data Structures Using C/C++ </a>
 - <a href="https://gi  thub.com/sachuverma/DataStructures-Algorithms"> Data Structures and Algorithms </a>
 
-### Ultimate Resources
+## Ultimate Resources
 
 - <a href="https://github.com/freeCodeCamp/freeCodeCamp"> freeCodeCamp </a>
 - <a href="https://github.com/practical-tutorials/project-based-learning"> Project Based Learning </a>
@@ -45,7 +45,7 @@ This repository provides material courses in:
 - <a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resources </a>
 - <a href="https://www.jsmastery.pro/resources"> JavaScript Mastery </a>
 
-### Cheatsheets
+## Cheatsheets
 
 - <a href="https://www.codecademy.com/resources/cheatsheets/all"> Codecademy Cheatsheets </a>
 - <a href="https://lecoupa.github.io/awesome-cheatsheets/"> Awesome Cheatsheets </a>
@@ -53,16 +53,16 @@ This repository provides material courses in:
 - <a href="https://overapi.com/"> Over API </a>
 - <a href="https://devdocs.io/"> Dev Docs </a>
 
-### Job Resources
+## Job Resources
 
 - <a href="https://startup.jobs/"> Startup Jobs </a>
 
-### News for Developers
+## News for Developers
 
 - <a href="https://daily.dev/"> Daily Dev </a>
 - <a href="https://justfive.news/technology"> Just Five News </a>
 
-### Contributing
+## Contributing
 
 Every contribution is welcome and please always give the best, so that this Repository may be useful for everyone :)
 
